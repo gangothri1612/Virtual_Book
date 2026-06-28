@@ -1,33 +1,36 @@
-# 📚 E-Book App - Your Digital Library with Voice
+# 📚 E-Book App – Smart Digital Reading & Audio Companion
 
-The **E-Book** Android application allows users to upload PDF, TXT, or DOCX files and listen to their contents using Text-to-Speech (TTS) in multiple languages and accents. The app also supports audio download, playback, sharing, and dark mode.
-
----
-
-## ✨ Features
-
-- 📂 File picker for PDFs, text, and Word documents
-- 🔊 Text-to-Speech support (English, Hindi, French)
-- 💾 Download audio files for offline listening
-- ▶️ Play/Pause audio with simple UI
-- 📤 Share audio files easily
-- 🕶️ Toggle dark mode
-- 🕘 View recently generated audio downloads
----
-
-## 📁 File Types Supported
-
-- `.pdf`
-- `.txt`
-- `.docx`
+The **E-Book App** is an Android application that transforms digital documents into an interactive reading experience. Users can import PDF, TXT, and DOCX files, convert text into natural-sounding speech, and enjoy hands-free reading with multilingual voice support. The app also enables audio storage, playback, sharing, and personalized viewing through dark mode.
 
 ---
 
-## 🛠 Tech Stack
+## ✨ Key Features
 
-- Java & Android SDK
-- TextToSpeech API
-- Apache POI (for DOCX)
-- PDFBox (for PDF)
-- AndroidX, ConstraintLayout
+* 📄 Import and read **PDF, TXT, and DOCX** documents
+* 🗣️ Convert text to speech with support for multiple languages
+* 🌍 Choose from **English, Hindi, and French** voice options
+* 🎵 Save generated audio for offline listening
+* ⏯️ Built-in audio player with play and pause controls
+* 📤 Share converted audio files with ease
+* 🌙 Switch between light and dark themes
+* 🕒 Access previously generated audio files from the history section
 
+---
+
+## 📂 Supported File Formats
+
+* PDF (`.pdf`)
+* Text (`.txt`)
+* Microsoft Word (`.docx`)
+
+---
+
+## 🛠 Technologies Used
+
+* **Java**
+* **Android SDK**
+* **Android TextToSpeech (TTS) API**
+* **Apache POI** (DOCX Processing)
+* **Apache PDFBox** (PDF Text Extraction)
+* **AndroidX**
+* **ConstraintLayout**
